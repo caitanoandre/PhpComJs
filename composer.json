@@ -1,0 +1,9 @@
+{
+    "name": "admin/c-adastrodepesquisa",
+    "autoload": {
+        "psr-4": {
+            "Admin\\CAdastrodepesquisa\\": "src/"
+        }
+    },
+    "require": {}
+}
